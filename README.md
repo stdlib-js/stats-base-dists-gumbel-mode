@@ -67,7 +67,7 @@ The [mode][mode] for a [Gumbel][gumbel-distribution] random variable with locati
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mode@v0.1.1-esm/index.mjs';
 ```
 
 #### mode( mu, beta )
@@ -132,7 +132,7 @@ y = mode( 0.0, -1.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gumbel-mode@v0.1.1-esm/index.mjs';
 
 var beta;
 var mu;
