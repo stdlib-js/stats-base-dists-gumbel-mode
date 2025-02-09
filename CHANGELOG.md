@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-02-09)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`105b812`](https://github.com/stdlib-js/stdlib/commit/105b8121cd65f5bb520351b48c945996e1dfb6aa) - **bench:** refactor random number generation in `stats/base/dists/gumbel` [(#4933)](https://github.com/stdlib-js/stdlib/pull/4933) _(by Karan Anand, stdlib-bot)_
 -   [`441ea68`](https://github.com/stdlib-js/stdlib/commit/441ea68883183d31363403a11d4142cabf4c0ef0) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`afec7c7`](https://github.com/stdlib-js/stdlib/commit/afec7c739bd80f59afce304f637346a7d60bdb59) - **feat:** add C implementation for `stats/base/dists/gumbel/mode`   [(#4151)](https://github.com/stdlib-js/stdlib/pull/4151) _(by Vivek Maurya, Philipp Burckhardt, stdlib-bot)_
