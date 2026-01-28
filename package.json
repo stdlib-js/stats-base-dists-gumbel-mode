@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-gumbel-mode",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Gumbel distribution mode.",
   "license": "Apache-2.0",
   "author": {
