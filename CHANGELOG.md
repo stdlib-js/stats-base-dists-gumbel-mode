@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-27)
+## Unreleased (2026-06-28)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`7e2e27a`](https://github.com/stdlib-js/stdlib/commit/7e2e27a02fb2a4583332457c097a21a00530388e) - **bench:** update random value generation for `stats/base/dists/gumbel/mode` [(#10110)](https://github.com/stdlib-js/stdlib/pull/10110) _(by Bhargav Dabhade, Philipp Burckhardt)_
 
 </details>
